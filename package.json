@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "sass:build": "sass styles.scss styles.css",
+    "sass:watch": "sass styles.scss styles.css --watch"
+  },
+  "dependencies": {
+    "sass": "^1.93.2",
+    "smss": "^1.0.50"
+  }
+}
